@@ -1,4 +1,5 @@
 # darth_fader
+![Image of completed device. It looks awesome.](https://github.com/squares/darth_fader/blob/master/Image_FinishedDevice.jpg?raw=true)
 USB-Powered, Configurable, Control Surface for Video Editing 
 
 I've been doing a little bit of light video editing, and occasionally would look online to see if anyone had a control surface for sale. Unfortunately, they're all either too expensive or too poorly supported for me to make me feel like it would be a worthwhile investment. 
